@@ -1,5 +1,8 @@
 # 忽略models文件夹下的所有文件
 dinov3_sam2/models/*
+dinov3/
+results/
+img/
 
 # 忽略常见的Python缓存文件
 __pycache__/
