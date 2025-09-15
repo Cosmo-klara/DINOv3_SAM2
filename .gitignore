@@ -1,5 +1,6 @@
 # 忽略models文件夹下的所有文件
 dinov3_sam2/models/*
+dinov3+lang/grounding_sam/models/*
 dinov3/
 results/
 img/
